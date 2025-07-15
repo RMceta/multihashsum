@@ -20,4 +20,4 @@ python3 multihashsum.py [-f] FILE
 
 **Ejemplos:**
 
-!(imagen.png)
+![Captura de ejemplo](imagen.png)
